@@ -1,6 +1,7 @@
-# ![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)Spotify Listening Behavior Analysis🎧
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)Spotify is a digital audio streaming service that gives users access to a massive library of music, podcasts, and audiobooks—all available on demand. Founded in Sweden in 2006 by Daniel Ek and Martin Lorentzon, Spotify launched publicly in 2008 and quickly became one of the most popular platforms for listening to audio content worldwide.
+# ![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)
+Spotify Listening Behavior Analysis🎧
+
+Spotify is a digital audio streaming service that gives users access to a massive library of music, podcasts, and audiobooks—all available on demand. Founded in Sweden in 2006 by Daniel Ek and Martin Lorentzon, Spotify launched publicly in 2008 and quickly became one of the most popular platforms for listening to audio content worldwide.
 
 
 📝 Project Overview
