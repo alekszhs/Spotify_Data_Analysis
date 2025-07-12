@@ -1,4 +1,7 @@
-# 🎧 Spotify Listening Behavior Analysis
+# ![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)Spotify Listening Behavior Analysis🎧
+
+![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)Spotify is a digital audio streaming service that gives users access to a massive library of music, podcasts, and audiobooks—all available on demand. Founded in Sweden in 2006 by Daniel Ek and Martin Lorentzon, Spotify launched publicly in 2008 and quickly became one of the most popular platforms for listening to audio content worldwide.
+
 
 📝 Project Overview
 This project explores patterns in Spotify user listening habits using Python. The dataset includes track-level playback history, and the analysis focuses on play duration, platform usage, track skipping behavior, and time-based engagement.
@@ -59,9 +62,13 @@ These give a snapshot of overall usage intensity and diversity.
 - Normalized to percentages for fair comparison
 - Visualized with a bar chart to show interaction trends (e.g., manual selection vs. playlist autoplay)
 
-✅ Final Thoughts
-This Spotify analysis combines exploratory data processing, descriptive statistics, and intuitive visualizations to uncover how, when, and why music is played. You could enhance this further with:
-- Time-series trends per artist or genre
-- Playlist-specific analysis
-- User segmentation (if you had user IDs)
+
+📥 Data Source
+This project uses publicly available Spotify listening data downloaded from Kaggle:
+- Kaggle Dataset: [Spotify History CSV](https://www.kaggle.com/datasets/spotify_history.csv)
+- Kaggle Dataset: [spotify_data_dictionary Description](https://www.kaggle.com/datasets/spotify_data_dictionary Description.csv)
+A track-level dataset containing detailed play history such as timestamps (ts), track names, artist names, play duration (ms_played), skip behavior, platform used, and start/end reasons.
+🔗 Kaggle Dataset: Spotify History Dataset
+
+
 
