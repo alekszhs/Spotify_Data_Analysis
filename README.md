@@ -67,7 +67,7 @@ These give a snapshot of overall usage intensity and diversity.
 📥 Data Source
 This project uses publicly available Spotify listening data downloaded from Kaggle:
 - Kaggle Dataset: [Spotify History CSV](https://www.kaggle.com/datasets/spotify_history.csv)
-- Kaggle Dataset: [spotify_data_dictionary Description](https://www.kaggle.com/datasets/spotify_data_dictionary Description.csv)
+- Kaggle Dataset: [spotify_data_dictionary Description](https://www.kaggle.com/datasets/spotify_data_dictionary_Description.csv)
 A track-level dataset containing detailed play history such as timestamps (ts), track names, artist names, play duration (ms_played), skip behavior, platform used, and start/end reasons.
 🔗 Kaggle Dataset: Spotify History Dataset
 
